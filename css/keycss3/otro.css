@@ -1,0 +1,113 @@
+.holiday{
+    background: url('../../PHOTOS/viajes/auto.jpg');
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tmñ{
+    font-size: 18px;
+}
+.uno:hover{
+    font-size: 23px;
+}
+
+.fondo{
+    background: url('../../PHOTOS/playa.jpg');
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no repeat;
+    background-size: cover;
+}
+
+
+.tm{
+    font-size: 16px;
+}
+
+.color{
+    /* background: url('../../PHOTOS/viajes/car.mp4'); */
+    background: radial-gradient(yellow,pink);
+    
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bod{
+    background: greenyellow;
+}
+
+.brasil{
+    widows: 100%;
+    height: 50vh;
+}
+
+.let{
+    font-size: 35px;
+}
+
+
+
+.rain{
+    
+    background:repeating-linear-gradient(yellow,brown,violet,rgb(194, 60, 60),skyblue);
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.te:hover{
+    font-size: 18px;
+    
+    
+}
+
+/* video */
+.keydave{
+    width: 100%;
+    
+}
+/* .dave{
+    background:linear-gradient(greenyellow,rgb(165, 61, 61),rgb(149, 233, 233));
+} */
+
+
+
+
+
+.social{
+    position: fixed;
+    left: -800;
+    bottom: 300px;
+    z-index: 10;
+    
+}
+        .social ul:hover{
+            background: white;
+            color: white;            
+        }
+        .social a{    
+            display: inline-block;       
+            
+            
+        }
+
+        .social ul{
+            list-style: none;
+            padding-top: 4px;
+            padding-bottom: 4px;
+            padding-right: 20px;
+        }
+
+
+.fab{
+    text-align: center;
+    justify-content: center;
+    
+}
+        .fab:hover{
+            color: white;   
+        }

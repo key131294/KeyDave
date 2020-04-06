@@ -1,0 +1,20 @@
+.mejora {
+    background-image: url('../../pixabay/parejafondo.jpg');
+    /* background: url('css/keycss3/pixabay/parejafondo.jpg'); */
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+  }
+
+  body {
+    background: url('../../pixabay/640x480/bosque.jpg');
+    position: absolute;
+  }
+
+
+  /* cards */
+  
+
+
+    /* otro */

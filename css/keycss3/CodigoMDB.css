@@ -1,0 +1,55 @@
+/* body{
+    background: url('../../pixabay/1920x1980/lunanoche.jpg');
+    
+    position: absolute;
+    background-repeat: no-repeat;
+} */
+
+body, html {
+    height: 100%;
+  }
+  .bg {
+    /* The image used */
+    /* background: url('../../pixabay/1920x1980/lunanoche.jpg'); */
+    background: brown;
+  
+    /* Full height */
+    height: 100%;
+    width: auto;
+    position: absolute;
+    
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+  }
+
+  .mejora {
+    background-image: url('../../pixabay/office1.jpg');
+    /* background-image: url('../../pixabay/codigo1.jpg'); */
+    /* background: url('css/keycss3/pixabay/parejafondo.jpg'); */
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .color{
+      color: rgb(37, 89, 141);
+      
+  }
+
+  .color2{
+    background: teal
+  }
+  .q{
+      color:rgb(224, 8, 8);
+      
+  }
+  
+
+  
+
+
+                                
